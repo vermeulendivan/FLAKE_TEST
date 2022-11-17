@@ -15,4 +15,4 @@ repos:
     rev: v0.4.0
     hooks:
       - id: autoflake8
-      args: [--exit-zero-even-if-changed]
+        args: [--exit-zero-even-if-changed]
