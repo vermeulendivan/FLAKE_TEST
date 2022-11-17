@@ -1,5 +1,6 @@
 import os
 
+
 def add_to_map():
     name = "bla_bla_two_three"
     order_name_split = name.split("_")
